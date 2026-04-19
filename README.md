@@ -20,3 +20,15 @@
   <script src="js/script.js"></script>
 </body>
 </html>
+
+<div class="carrossel">
+  <button class="prev">&#10094;</button>
+
+  <div class="slides">
+    <img src="img/img1.jpg" class="slide ativo">
+    <img src="img/img2.jpg" class="slide">
+    <img src="img/img3.jpg" class="slide">
+  </div>
+
+  <button class="next">&#10095;</button>
+</div>
